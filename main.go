@@ -16,7 +16,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/google/gops/goprocess"
+	"github.com/lblackstone/gops/goprocess"
 	"github.com/shirou/gopsutil/process"
 	"github.com/xlab/treeprint"
 )

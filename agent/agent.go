@@ -26,8 +26,8 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/google/gops/internal"
-	"github.com/google/gops/signal"
+	"github.com/lblackstone/gops/internal"
+	"github.com/lblackstone/gops/signal"
 )
 
 const defaultAddr = "127.0.0.1:0"

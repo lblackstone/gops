@@ -9,10 +9,9 @@ import (
 	"os"
 	"sync"
 
-	goversion "rsc.io/goversion/version"
-
-	"github.com/google/gops/internal"
 	ps "github.com/keybase/go-ps"
+	"github.com/lblackstone/gops/internal"
+	goversion "rsc.io/goversion/version"
 )
 
 // P represents a Go process.
