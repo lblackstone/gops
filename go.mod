@@ -12,3 +12,5 @@ require (
 	golang.org/x/sys v0.0.0-20201207223542-d4d67f95c62d
 	rsc.io/goversion v1.2.0
 )
+
+replace rsc.io/goversion => github.com/lblackstone/goversion v1.2.1
